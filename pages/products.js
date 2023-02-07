@@ -1,8 +1,8 @@
 const Products = () => {
     return (
         <>
-        <h1>Product Name</h1>
-        <p>Description here</p>
+        <h1>New Mints Product</h1>
+        <p>Its good</p>
         <p>$5 for a pack</p>
         </>
     )
