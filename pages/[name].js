@@ -5,3 +5,5 @@ const Name = () => {
     const { name } = router.query;
     return <h1>Welcome {name}</h1>;
 }
+
+export default Name;
