@@ -3,11 +3,27 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  }
+    "gray-matter": "^4.0.3",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "ecommerce-website",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinjcheng/ecommerce-website.git"
+  },
+  "author": "Austin Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinjcheng/ecommerce-website/issues"
+  },
+  "homepage": "https://github.com/austinjcheng/ecommerce-website#readme"
 }
